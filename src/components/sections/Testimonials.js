@@ -7,10 +7,8 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " AI
-                のパイオニアでありマルチイグジットの創設者であり、グローバル
-                EWA給与計算用のエンタープライズ ブロックチェーン システムである
-                VolanteChain を構築しています。"
+                "We are pioneers in AI and provide a multi-signature enterprise
+                blockchain solution for global EWA payroll."
               </span>
               <span className="person">Joey Bertschler</span>
               <span className="job">Chief Executive Officer</span>
@@ -24,9 +22,8 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " VolanteChain
-                のブランドマネージャーという新しいポジションで仕事を始めることを発表できることを嬉しく思います。
-                "
+                "I'm excited to begin my new role as Brand Manager for
+                VolanteChain."
               </span>
               <span className="person">Sofiya Safronova</span>
               <span className="job">Brand Manager</span>

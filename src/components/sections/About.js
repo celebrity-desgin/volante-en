@@ -26,7 +26,7 @@ const About = () => {
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                勤労賃金アクセス
+                Earned Wage Access
               </span>
             </span>
           </h2>
@@ -35,28 +35,28 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>稼いだ賃金に即座にアクセスできます。</span>
+                    <span>Instant access to your earned wages.</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>安全で透明な取引。</span>
+                    <span>Secure and transparent transactions.</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>直感的なプラットフォーム。</span>
+                    <span>Intuitive platform.</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>包括的な金融ソリューション。</span>
+                    <span>Inclusive financial solutions.</span>
                   </span>
                 </span>
               </li>
@@ -165,11 +165,11 @@ const About = () => {
                   <h4>Project Launch</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2024 - 第4四半期</span>
+                    <span>Q4 2024</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>プロジェクト開始</span>
+                    <span>Project initiation</span>
                   </p>
                 </div>
               </div>
@@ -182,11 +182,11 @@ const About = () => {
                   <h4>VOL Token Listing</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2025 - 第1四半期</span>
+                    <span>Q1 2025</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>VOLトークン上場</span>
+                    <span>VOL Token listing</span>
                   </p>
                 </div>
               </div>
@@ -196,14 +196,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Volante Chain Beta Release</h4>
+                  <h4>Volante Chain Beta</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2025 - 第2四半期</span>
+                    <span>Q2 2025</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Volante Chain β版ﾘﾘｰｽ</span>
+                    <span>Volante Chain Beta release</span>
                   </p>
                 </div>
               </div>
@@ -216,11 +216,11 @@ const About = () => {
                   <h4>Volante Services Launched</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2025 - 第3四半期</span>
+                    <span>Q4 2025</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Volanteサービス開始</span>
+                    <span>Volante Chain updates</span>
                   </p>
                 </div>
               </div>
@@ -233,11 +233,11 @@ const About = () => {
                   <h4>Volante Chain Updates</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2025 - 第4四半期</span>
+                    <span>Q4 2025</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Volante Chainのｱｯﾌﾟﾃﾞｰﾄ</span>
+                    <span>Volante Chain updates</span>
                   </p>
                 </div>
               </div>
@@ -247,14 +247,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Further Dev and Partnerships</h4>
+                  <h4>Partnerships</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2026</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>開発とﾊﾟｰﾄﾅｰｼｯﾌﾟ</span>
+                    <span>Further development and partnerships</span>
                   </p>
                 </div>
               </div>

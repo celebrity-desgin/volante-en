@@ -38,7 +38,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>日本経済新聞社 掲載</h4>
+            <h4>Featured in Nikkei</h4>
             <div>
               <ul>
                 <li>
@@ -51,19 +51,19 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Media :
                   </span>
-                  <span>日本経済新聞社日経ｷｬﾝﾊﾞｽ</span>
+                  <span>Nikkei Shimbun Nikkei Campus</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月29日</span>
+                  <span>January 29, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -95,7 +95,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>EWAについて</h4>
+            <h4>About EWA</h4>
             <div>
               <ul>
                 <li>
@@ -114,7 +114,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2024年8月31日</span>
+                  <span>August 31, 2024</span>
                 </li>
                 <li>
                   <span>
@@ -245,7 +245,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2024年</span>
+                  <span>2024</span>
                 </li>
                 <li>
                   <span>
@@ -277,7 +277,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>NEC BIGLOBE 掲載</h4>
+            <h4>Featured in NEC BIGLOBE</h4>
             <div>
               <ul>
                 <li>
@@ -290,19 +290,19 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Media :
                   </span>
-                  <span>NEC BIGLOBEニュース</span>
+                  <span>NEC BIGLOBE News</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月29日</span>
+                  <span>January 29, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -332,7 +332,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>デイリーニュース 掲載</h4>
+            <h4>Featured in The Daily News</h4>
             <div>
               <ul>
                 <li>
@@ -351,13 +351,13 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月31日</span>
+                  <span>January 31, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -387,7 +387,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>モーニングスター 掲載</h4>
+            <h4>Featured in Morningstar</h4>
             <div>
               <ul>
                 <li>
@@ -406,13 +406,13 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月25日</span>
+                  <span>January 29, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -442,7 +442,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>AP通信 掲載</h4>
+            <h4>Featured on Associated Press (AP)</h4>
             <div>
               <ul>
                 <li>
@@ -461,13 +461,13 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月25日</span>
+                  <span>January 25, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -497,7 +497,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Yahoo!finance 掲載</h4>
+            <h4>Featured in Yahoo! Finance</h4>
             <div>
               <ul>
                 <li>
@@ -516,13 +516,13 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月25日</span>
+                  <span>January 25, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -552,7 +552,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>NES PICKS 掲載</h4>
+            <h4>Featured in NES PICKS</h4>
             <div>
               <ul>
                 <li>
@@ -571,13 +571,13 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月29日</span>
+                  <span>January 29, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>
@@ -607,7 +607,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>サンケイスポーツ 掲載</h4>
+            <h4>Featured in Sankei Sports</h4>
             <div>
               <ul>
                 <li>
@@ -620,19 +620,19 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Media :
                   </span>
-                  <span>サンケイスポーツ</span>
+                  <span>Sankei Sports</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Publication date :
                   </span>
-                  <span>2025年1月29日</span>
+                  <span>January 29, 2025</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Content :
                   </span>
-                  <span>給与即時アクセスについての論文を発表</span>
+                  <span>Research Paper on Earned Wage Access</span>
                 </li>
               </ul>
             </div>

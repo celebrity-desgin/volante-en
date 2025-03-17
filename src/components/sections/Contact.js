@@ -19,10 +19,10 @@ const Contact = () => {
         <div>
           {/* CONTACT ITEM STARTS */}
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
-            <i className="fas fa-comment-alt"></i>
+            <i class="fa-solid fa-globe"></i>
             <p>
-              <span className="small-text">LINE@</span>
-              @251cmbmj
+              <span className="small-text">WEB</span>
+              https://www.volantechain.com/
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -47,7 +47,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              support@volante-chain.com
+              support@volantechain.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -58,11 +58,6 @@ const Contact = () => {
             <ul className="social">
               <li>
                 <a href="https://x.com/volantechain">
-                  <i class="fab fa-x-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://x.com/volantechain_jp">
                   <i class="fab fa-x-twitter"></i>
                 </a>
               </li>
