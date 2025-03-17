@@ -26,7 +26,7 @@ const Index = () => {
         <title>Volante Token Sale!</title>
         <meta
           name="description"
-          content="特別価格でVolanteトークンを入手するチャンス!"
+          content="Get VOL Tokens at a Special Launch Price!"
         />
 
         {/* 🔹 OGP設定 */}
@@ -34,7 +34,7 @@ const Index = () => {
         <meta property="og:title" content="Volante Token Sale!" />
         <meta
           property="og:description"
-          content="特別価格でVolanteトークンを入手するチャンス!"
+          content="Get VOL Tokens at a Special Launch Price!"
         />
         <meta property="og:url" content="https://volante-ten.vercel.app/" />
         <meta
@@ -47,7 +47,7 @@ const Index = () => {
         <meta name="twitter:title" content="Volante Token Sale!" />
         <meta
           name="twitter:description"
-          content="特別価格でVolanteトークンを入手するチャンス!"
+          content="Get VOL Tokens at a Special Launch Price!"
         />
         <meta
           name="twitter:image"
