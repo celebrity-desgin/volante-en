@@ -23,7 +23,7 @@ const Facts = () => {
           <div>
             <div>
               <h3>Type</h3>
-              <p>ERC20</p>
+              <p>SOLANA</p>
             </div>
           </div>
         </div>
