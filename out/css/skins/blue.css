@@ -1,0 +1,31 @@
+/* BLUE #1d4f8b を変更 */
+header .header-inner .menu ul li span:before,
+.mCSB_dragger_bar:before,
+.custom-btn:before,
+.line:before,
+.nav-item:hover,
+.category,
+.clients .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.portfolio
+  .single-item
+  .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.timeline ol li > div > div > span,
+.timeline ol li:not(:last-child):after,
+.blog-page .page-item.active .page-link,
+.blog-page .page-item .page-link:hover {
+  background-color: rgb(98 116 255); /* ここを修正 */
+}
+
+header .header-inner .mail p span,
+.main-post .meta i {
+  color: rgb(98 116 255); /* ここを修正 */
+}
+
+.home .cta,
+.nav-item,
+header .header-inner .menu ul li span:before,
+.mCSB_dragger_bar:before,
+.custom-btn:before,
+.line:before {
+  border-color: rgb(98 116 255); /* ここも修正 */
+}

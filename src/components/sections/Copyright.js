@@ -108,7 +108,7 @@ const Copyright = () => {
         )}
         {!isMobile ? (
           <img
-            src="/assets/images/jupiter.png"
+            src="/assets/images/btse.png"
             alt="Buy Button for PC"
             style={{
               cursor: 'pointer',
@@ -120,13 +120,12 @@ const Copyright = () => {
               zIndex: 10,
             }}
             onClick={() => {
-              window.location.href =
-                'https://drive.google.com/file/d/1KFpzFWBR-Q42883iChRbGSvsGoKLY88I/view?usp=sharing';
+              window.location.href = 'https://www.btse.com/en';
             }}
           />
         ) : (
           <img
-            src="/assets/images/jupiter350.png"
+            src="/assets/images/btse350.png"
             alt="Buy Button for Mobile"
             style={{
               cursor: 'pointer',
@@ -138,8 +137,7 @@ const Copyright = () => {
               zIndex: 10,
             }}
             onClick={() => {
-              window.location.href =
-                'https://drive.google.com/file/d/1KFpzFWBR-Q42883iChRbGSvsGoKLY88I/view?usp=sharing';
+              window.location.href = 'https://www.btse.com/en';
             }}
           />
         )}
